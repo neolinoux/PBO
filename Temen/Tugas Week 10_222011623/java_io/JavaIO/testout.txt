@@ -1,0 +1,6 @@
+Hasil Proses Text
+=================
+Jumlah Karakter (diluar Spasi) : 616
+Jumlah Baris : 11
+Jumlah Huruf Vokal : 243
+Jumlah Huruf Konsonan : 317
